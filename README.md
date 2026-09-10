@@ -248,4 +248,4 @@ This repository serves as the official landing page for BullGuard Antivirus. The
 **Get the most recent version of BullGuard Antivirus today!**
 
 ---
-**Last updated:** 2026-09-10 18:04:28 UTC
+**Last updated:** 2026-09-10 21:22:57 UTC
